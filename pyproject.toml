@@ -39,6 +39,8 @@ ptyprocess = "^0.7.0"
 pyzmq = "^26.2.1"
 pandas = "^2.2.3"
 scipy = "^1.15.2"
+skforecast = "^0.14.0"
+shap = "^0.46.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
