@@ -41,8 +41,12 @@ pandas = "^2.2.3"
 scipy = "^1.15.2"
 skforecast = "^0.14.0"
 shap = "^0.46.0"
+<<<<<<< HEAD
 tensorflow = "^2.18.0"
 numpy = "1.26.0,<2.1.0"
+=======
+lime = "^0.2.0.1"
+>>>>>>> upstream/main
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
