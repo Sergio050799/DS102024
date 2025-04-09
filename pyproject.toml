@@ -7,7 +7,7 @@ readme = "README.md"
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.12,<3.13"
 ipykernel = "^6.29.5"
 notebook = "^7.2.2"
 sqlalchemy = "^2.0.34"
@@ -41,12 +41,11 @@ pandas = "^2.2.3"
 scipy = "^1.15.2"
 skforecast = "^0.14.0"
 shap = "^0.46.0"
-<<<<<<< HEAD
 tensorflow = "^2.18.0"
 numpy = "1.26.0,<2.1.0"
-=======
 lime = "^0.2.0.1"
->>>>>>> upstream/main
+pytest = "^8.3.5"
+pytest-cov = "^6.1.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
