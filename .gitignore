@@ -168,14 +168,13 @@ Prof/
 6-Poo_Proyecto/
 *.DS_Store
 .DS_Store/
-mnist.json
 Dataset/
 *.python-version
 housing_tuning/
 *.zip
-3-MachineLearning/7-DeepLearning/2-CNN/
-*.npz
 3-MachineLearning/7-DeepLearning/2-CNN/data/
 *.npz
 *.h5
-4-DataEngineer/PolarsPySpark/data/processed/yellow_tripdata_small.parquet
+Presentaciones/
+4-DataEngineer/PolarsPySpark/data/processed/yellow_tripdata.parquet
+4-DataEngineer/PolarsPySpark/etl_example/output/nyc_taxi.db
